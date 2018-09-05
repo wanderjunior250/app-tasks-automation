@@ -1,0 +1,4 @@
+APP:
+  DEV:
+    home: 'http://localhost:8080'
+  

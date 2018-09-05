@@ -1,0 +1,7 @@
+browser: :chrome
+server_host: "http://localhost"
+server_port: 55555
+url: "http://localhost:4444/wd/hub"
+remote: false
+default_max_wait_time: 10
+verify_version: false

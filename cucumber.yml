@@ -1,0 +1,5 @@
+default: --no-source --color --format pretty
+regression: -p default -t '@regression'
+dev: env='DEV'
+hcp: env='HCP'
+prd: env='PRD'
