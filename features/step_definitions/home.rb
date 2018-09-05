@@ -1,7 +1,3 @@
-Então("eu devo estar na home do site") do
-    pending # Write code here that turns the phrase above into concrete actions
-  end
-  
   Quando("eu adicionar {int} tarefa valida") do |int|
     pending # Write code here that turns the phrase above into concrete actions
   end

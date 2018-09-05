@@ -10,10 +10,6 @@ Funcionalidade: Tarefas
 Contexto: Acessar o site
   Dado que eu esteja na home do site
 
-@positivo @smokeTest @regressao
-Cenário: Validar acesso ao site
-  Então eu devo estar na home do site
-
 @positivo @regressao @smokeTest 
 Esquema do Cenário: Validar adição de tarefa
   Quando eu adicionar <quantidade> tarefa valida
