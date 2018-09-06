@@ -4,4 +4,3 @@ TASK_LIST:
     concluida?: false
   task_invalida:
     nome: ''
-    concluida?: false
